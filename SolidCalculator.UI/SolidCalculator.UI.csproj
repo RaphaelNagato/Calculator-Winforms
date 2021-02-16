@@ -6,4 +6,7 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SolidCalculator.Core\SolidCalculator.Core.csproj" />
+  </ItemGroup>
 </Project>
